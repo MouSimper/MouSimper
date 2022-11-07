@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MouSimper
 - 👀 I’m interested in learn new programming codes
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on different companies
 - 📫 How to reach me Ig: MouSimper
 
