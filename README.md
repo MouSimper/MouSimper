@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MouSimper
 - 👀 I’m interested in learn new programming codes
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on different companies
+- 🌱 I’m currently learning haskell
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me Ig: MouSimper
 
 <!---
